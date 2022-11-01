@@ -10,7 +10,7 @@
 https://streamable.com/12eely
 
 
-#Ox-Inventory
+## Ox-Inventory
 
 ['broken_components'] = {
     label = 'Sugede Komponentai',
