@@ -5,7 +5,6 @@ AddEventHandler('box:items', function()
     if xPlayer.canCarryItem(RandomItem(), RandomNumber()) then
         xPlayer.addInventoryItem(RandomItem(), RandomNumber())   
         xPlayer.addInventoryItem(RandomItem(), RandomNumber())     
-        xPlayer.addInventoryItem(LuckyItem(), LuckyRandomNumber())  
     end
 
 end)
