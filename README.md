@@ -1,9 +1,9 @@
 # ig-recycler
 
 ## Requires
-[rprogress](https://github.com/Mobius1/rprogress)
+[ox_lib](https://github.com/overextended/ox_lib)
 
-[Qtarget](https://github.com/overextended/qtarget)
+[ox_target](https://github.com/overextended/ox_target)
 
 ## Preview
 
