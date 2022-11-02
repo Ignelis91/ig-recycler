@@ -130,6 +130,7 @@ exports.ox_target:addSphereZone({
             icon = 'fa-solid fa-box',
             label = 'Pajimti Deže',
             groups = cfg.job['job'],
+	    distance = 2,
             canInteract = function(entity, distance, coords, name)
                 return true
             end
@@ -148,6 +149,7 @@ exports.ox_target:addSphereZone({
             icon = 'fa-solid fa-box',
             label = 'Pajimti Deže',
             groups = cfg.job['job'],
+	    distance = 2,
             canInteract = function(entity, distance, coords, name)
                 return true
             end
@@ -166,6 +168,7 @@ exports.ox_target:addSphereZone({
             icon = 'fa-solid fa-box',
             label = 'Pajimti Deže',
             groups = cfg.job['job'],
+	    distance = 2,
             canInteract = function(entity, distance, coords, name)
                 return true
             end
@@ -184,6 +187,7 @@ exports.ox_target:addSphereZone({
             icon = 'fa-sharp fa-solid fa-box-open',
             label = 'Išpakuoti Deže',
             groups = cfg.job['job'],
+	    distance = 2,
             canInteract = function(entity, distance, coords, name)
                 return true
             end
